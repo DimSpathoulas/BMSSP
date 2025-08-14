@@ -1,4 +1,4 @@
-# BMSSP
+# Complete BMSSP
 
 ## Overview
 A complete python implemention for the BMSSP algorithm. 
