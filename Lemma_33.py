@@ -1,3 +1,5 @@
+# Spathoulas Dimitris
+
 # ### NOT YET IMPLEMENTED
 # We adopt a self-balancing binary search tree
 # (e.g. Red-Black Tree [GS78]) to dynamically maintain these upper bounds, with O(max{1, log(N/M )})
