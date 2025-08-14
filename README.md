@@ -1,7 +1,7 @@
 # BMSSP
 
 ## Overview
-A python implemention for the BMSSP algorithm. 
+A complete python implemention for the BMSSP algorithm. 
 
 ## Instructions
 ** UNDER CONSTRUCTION **
