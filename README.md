@@ -11,7 +11,7 @@ https://arxiv.org/pdf/2504.17033v2
 
 
 ## Notes
-Algorithm 2 and 3 are under construction to ensure complexity constrains.
+Algorithm 3 is under construction to ensure complexity constrains.
 
 Lemma 3.3 requires a small addition to reach complexity constrains.
 
